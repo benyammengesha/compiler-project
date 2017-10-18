@@ -1,3 +1,4 @@
+#prepared by Benyam Mengesha, Archana Patel, and Syltinsy Jenkins
 #include "semGen.h"
 #include <stdlib.h>
 #include <iostream>
