@@ -23,7 +23,6 @@ using namespace std;
 #define ElseType 51
 #define GreaterThanType 52
 #define ErrorType 53
-
 #define Start 54
 #define Space 55
 #define EndStatement 56
